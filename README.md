@@ -9,9 +9,8 @@ What I've done in university. Some might be here, some might be in the links bel
 //hw 5
 //exam sheets if found
 
-//database hw1,
-//hw2,
-//hw3,
+Database Systems:
+Homework - https://github.com/doongwong2/1121DatabaseSQL/
 //project,
 
 112 2nd Semester(Feb 2024 - June 2024)  
