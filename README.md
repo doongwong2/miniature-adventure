@@ -11,7 +11,6 @@ What I've done in university. Some might be here, some might be in the links bel
 
 Database Systems:
 Homework - https://github.com/doongwong2/1121DatabaseSQL/
-//project,
 
 112 2nd Semester(Feb 2024 - June 2024)  
 Kotlin:  
