@@ -1,15 +1,16 @@
 # miniature-adventure
 What I've done in university. Some might be here, some might be in the links below.
 
+111 2nd Semester(Feb 2023 - June 2023)  
+Algorithms:  
+Homework - https://github.com/doongwong2/1112Algorithm
+
 112 1st Semester(Sep 2023 - Jan 2024)  
-//to do : computer graphics hw1
-//hw2
-//hw 3
-//hw 4
-//hw 5
+Computer Graphics:  
+Homework - https://github.com/doongwong2/1121CG_OpenGL
 //exam sheets if found
 
-Database Systems:
+Database Systems:  
 Homework - https://github.com/doongwong2/1121DatabaseSQL/
 
 112 2nd Semester(Feb 2024 - June 2024)  
