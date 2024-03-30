@@ -3,7 +3,10 @@ What I've done in university. Some might be here, some might be in the links bel
 
 111 2nd Semester(Feb 2023 - June 2023)  
 Algorithms:  
-Homework - https://github.com/doongwong2/1112Algorithm
+Homework - https://github.com/doongwong2/1112Algorithm  
+
+Assembly Language & Microprocessor:  
+Classwork - https://github.com/doongwong2/1112Assembly_8051  
 
 112 1st Semester(Sep 2023 - Jan 2024)  
 Computer Graphics:  
