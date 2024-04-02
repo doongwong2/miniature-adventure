@@ -8,7 +8,7 @@ Python3 - https://github.com/doongwong2/1111Python
 Algorithms:  
 Homework - https://github.com/doongwong2/1112Algorithm  
 
-Computer Network:
+Computer Network:  
 Homework - https://github.com/doongwong2/miniature-adventure/tree/main/1112ComputerNetwork
 
 Assembly Language & Microprocessor:  
