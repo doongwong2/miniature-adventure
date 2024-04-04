@@ -2,7 +2,11 @@
 What I've done in university. Some might be here, some might be in the links below.
 
 111 1st Semester(Sep 2022 - Jan 2023)  
-Python3 - https://github.com/doongwong2/1111Python
+Data Structures:  
+Lab Questions - https://github.com/doongwong2/1111DataStructures  
+
+Python3:  
+Homework - https://github.com/doongwong2/1111Python
   
 111 2nd Semester(Feb 2023 - June 2023)  
 Algorithms:  
