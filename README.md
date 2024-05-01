@@ -21,7 +21,6 @@ Classwork - https://github.com/doongwong2/1112Assembly_8051
 112 1st Semester(Sep 2023 - Jan 2024)  
 Computer Graphics:  
 Homework - https://github.com/doongwong2/1121CG_OpenGL
-//exam sheets if found
 
 Database Systems:  
 Homework - https://github.com/doongwong2/1121DatabaseSQL/
