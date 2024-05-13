@@ -36,4 +36,4 @@ Machine Vision:
 Homework - https://github.com/doongwong2/1122MachineVision  
 
 Programming Language:  
-Homework - 
+Homework - https://github.com/doongwong2/miniature-adventure/blob/main/1122ProgLang/  
