@@ -63,55 +63,55 @@ public:
 int main()
 {
 
-	// PART ¤@  (35¤À)
+	// PART ä¸€  (35åˆ†)
 
-	counter_ptr<int> b("b", new int[10]);	//»İ­n¼¶¼g counter_ptr constructor(«Øºc¤l) ±µ¨ü¨â­Ó°Ñ¼Æ
-											// stdout ¿é¥X: int_array_cell is allocated
-											// stdout ¿é¥X: counter_ptr b is assigned to an int_array_cell: counter 1
+	counter_ptr<int> b("b", new int[10]);	//éœ€è¦æ’°å¯« counter_ptr constructor(å»ºæ§‹å­) æ¥å—å…©å€‹åƒæ•¸
+											// stdout è¼¸å‡º: int_array_cell is allocated
+											// stdout è¼¸å‡º: counter_ptr b is assigned to an int_array_cell: counter 1
 	
-	b = new int[100]; 	//»İ­n¼¶¼g counter_ptr operator=
-		// stdout ¿é¥X: int_array_cell counter 0: deleted
-		// stdout ¿é¥X: int_array_cell is allocated
-		// stdout ¿é¥X: counter_ptr b is assigned to an int_array_cell: counter 1
+	b = new int[100]; 	//éœ€è¦æ’°å¯« counter_ptr operator=
+		// stdout è¼¸å‡º: int_array_cell counter 0: deleted
+		// stdout è¼¸å‡º: int_array_cell is allocated
+		// stdout è¼¸å‡º: counter_ptr b is assigned to an int_array_cell: counter 1
 
-	counter_ptr<int> a("a");	//»İ­n¼¶¼g counter_ptr constructor(«Øºc¤l) ±µ¨ü¤@­Ó°Ñ¼Æ
-		// stdout ¿é¥X: counter_ptr a is not assigned to an int_array_cell
+	counter_ptr<int> a("a");	//éœ€è¦æ’°å¯« counter_ptr constructor(å»ºæ§‹å­) æ¥å—ä¸€å€‹åƒæ•¸
+		// stdout è¼¸å‡º: counter_ptr a is not assigned to an int_array_cell
 
-	a = b;			//»İ­n¼¶¼g counter_ptr operator= 
-		// stdout ¿é¥X: int_array_cell counter is increased: counter 2
-		// stdout ¿é¥X: counter_ptr a is assigned to an int_array_cell: counter 2
+	a = b;			//éœ€è¦æ’°å¯« counter_ptr operator= 
+		// stdout è¼¸å‡º: int_array_cell counter is increased: counter 2
+		// stdout è¼¸å‡º: counter_ptr a is assigned to an int_array_cell: counter 2
 
 	
-	// a leaves it scope:	//»İ­n¼¶¼g counter_ptr destructor
-	// stdout ¿é¥X: counter_ptr a is deleted
-	// stdout ¿é¥X: int_array_cell counter is decreased: counter 1
+	// a leaves it scope:	//éœ€è¦æ’°å¯« counter_ptr destructor
+	// stdout è¼¸å‡º: counter_ptr a is deleted
+	// stdout è¼¸å‡º: int_array_cell counter is decreased: counter 1
 
 
-	// PART ¤G  (35¤À)
+	// PART äºŒ  (35åˆ†)
 
 	for (int i = 0; i < 10; i++)
-		b[i] = i;  //»İ­n¼¶¼g counter_ptr operator[] ¼g­È(¦^¶Ç¸ê®Æªº°Ñ¦Ò return type: int &)
+		b[i] = i;  //éœ€è¦æ’°å¯« counter_ptr operator[] å¯«å€¼(å›å‚³è³‡æ–™çš„åƒè€ƒ return type: int &)
 
 	for (int i = 0; i < 10; i++)
-		cout << b[i] << ' ';    //»İ­n¼¶¼g counter_ptr operator[] Åª­È(¦^¶Ç¸ê®Æ)
+		cout << b[i] << ' ';    //éœ€è¦æ’°å¯« counter_ptr operator[] è®€å€¼(å›å‚³è³‡æ–™)
 	cout << endl;
-	// stdout ¿é¥X: 0 1 2 3 4 5 6 7 8 9
+	// stdout è¼¸å‡º: 0 1 2 3 4 5 6 7 8 9
 
 	counter_ptr<int> c("c");
-	// stdout ¿é¥X: counter_ptr c is not assigned to an int_array_cell
+	// stdout è¼¸å‡º: counter_ptr c is not assigned to an int_array_cell
 
 	c = b;
-	// stdout ¿é¥X: int_array_cell counter is increased: counter 2
-	// stdout ¿é¥X: counter_ptr c is assigned to an int_array_cell: counter 2
+	// stdout è¼¸å‡º: int_array_cell counter is increased: counter 2
+	// stdout è¼¸å‡º: counter_ptr c is assigned to an int_array_cell: counter 2
 
-	b.release();			//»İ­n¼¶¼g counter_ptr release function: ¤£¨Ï¥Î°O¾ĞÅé
-	// stdout ¿é¥X: int_array_cell counter is decreased: counter 1
-	// stdout ¿é¥X: counter_ptr b is not assigned to an int_array_cell
+	b.release();			//éœ€è¦æ’°å¯« counter_ptr release function: ä¸ä½¿ç”¨è¨˜æ†¶é«”
+	// stdout è¼¸å‡º: int_array_cell counter is decreased: counter 1
+	// stdout è¼¸å‡º: counter_ptr b is not assigned to an int_array_cell
 	
-	// c leaves it scope:	//»İ­n¼¶¼g counter_ptr destructor
-	// stdout ¿é¥X: counter_ptr c is deleted
-	// stdout ¿é¥X: int_array_cell counter 0: deleted
-	// stdout ¿é¥X: counter_ptr b is deleted
+	// c leaves it scope:	//éœ€è¦æ’°å¯« counter_ptr destructor
+	// stdout è¼¸å‡º: counter_ptr c is deleted
+	// stdout è¼¸å‡º: int_array_cell counter 0: deleted
+	// stdout è¼¸å‡º: counter_ptr b is deleted
 	system("pause");
 	stack stack1;
 	while (1)
