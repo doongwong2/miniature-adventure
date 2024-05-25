@@ -26,7 +26,7 @@ Database Systems:
 Homework - https://github.com/doongwong2/1121DatabaseSQL/
 
 112 2nd Semester(Feb 2024 - June 2024)  
-Kotlin:  
+Android Kotlin:  
 hw1 - https://github.com/doongwong2/1122kotlin_hw1  
 (Not hw)AB_Game - https://github.com/doongwong2/1122kotlin_ABGame   
 hw2 - https://github.com/doongwong2/1122Kotlin_hw2  
@@ -37,3 +37,7 @@ Homework - https://github.com/doongwong2/1122MachineVision
 
 Programming Language:  
 Homework - https://github.com/doongwong2/miniature-adventure/blob/main/1122ProgLang/  
+
+Machine Learning:
+Homework - https://github.com/doongwong2/1122MachineLearning  
+
