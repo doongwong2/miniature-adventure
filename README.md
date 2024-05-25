@@ -38,6 +38,6 @@ Homework - https://github.com/doongwong2/1122MachineVision
 Programming Language:  
 Homework - https://github.com/doongwong2/miniature-adventure/blob/main/1122ProgLang/  
 
-Machine Learning:
+Machine Learning:  
 Homework - https://github.com/doongwong2/1122MachineLearning  
 
