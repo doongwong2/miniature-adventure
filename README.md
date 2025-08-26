@@ -47,7 +47,7 @@ Lab Questions - https://github.com/doongwong2/1131DataStructures
 
 Software Engineering  
 Group Project(the github source) - https://github.com/LianChengTa/SE1131  
-The documents  https://github.com/doongwong2/miniature-adventure/tree/main/1131SoftwareEngineering  
+The documents - https://github.com/doongwong2/miniature-adventure/tree/main/1131SoftwareEngineering  
 
 Web Programming  
 Weekly exercises - https://github.com/doongwong2/1132WebProgramming    
