@@ -41,6 +41,17 @@ Homework - https://github.com/doongwong2/miniature-adventure/blob/main/1122ProgL
 Machine Learning:  
 Homework - https://github.com/doongwong2/1122MachineLearning  
 
-113 1st Semester(Sep 2024 - Jan 2024)  
-Data Structures(As a tutor) - https://github.com/doongwong2/1131DataStructures  
+113 1st Semester(Sep 2024 - Jan 2025)  
+Data Structures(As a tutor)   
+Lab Questions - https://github.com/doongwong2/1131DataStructures  
+
+Software Engineering  
+Group Project(the github source) - https://github.com/LianChengTa/SE1131  
+The documents are in this repo.  
+
+Web Programming  
+Node.js, React, jQuery powered website, Project D - https://github.com/doongwong2/ProjectD  
+
+113 2nd Semester(Feb 2025 - June 2025) - Graduation    
+System Programming - 
 
