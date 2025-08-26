@@ -50,6 +50,7 @@ Group Project(the github source) - https://github.com/LianChengTa/SE1131
 The documents are in this repo.  
 
 Web Programming  
+Weekly exercises - https://github.com/doongwong2/1132WebProgramming    
 Node.js, React, jQuery powered website, Project D - https://github.com/doongwong2/ProjectD  
 
 113 2nd Semester(Feb 2025 - June 2025) - Graduation    
