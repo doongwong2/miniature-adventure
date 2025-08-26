@@ -42,21 +42,24 @@ Machine Learning:
 Homework - https://github.com/doongwong2/1122MachineLearning  
 
 113 1st Semester(Sep 2024 - Jan 2025)  
-Data Structures(As a tutor)   
+Data Structures(As a tutor):   
 Lab Questions - https://github.com/doongwong2/1131DataStructures  
 
-Software Engineering  
+Software Engineering:  
 Group Project(the github source) - https://github.com/LianChengTa/SE1131  
 The documents - https://github.com/doongwong2/miniature-adventure/tree/main/1131SoftwareEngineering  
 
-Web Programming  
+Web Programming:  
 Weekly exercises - https://github.com/doongwong2/1132WebProgramming    
 Node.js, React, jQuery powered website, Project D - https://github.com/doongwong2/ProjectD  
 
 113 2nd Semester(Feb 2025 - June 2025) - Graduation    
-System Programming - https://github.com/doongwong2/miniature-adventure/tree/main/1132SystemProgramming  
+System Programming:  
+Homework - https://github.com/doongwong2/miniature-adventure/tree/main/1132SystemProgramming  
 
-System Pentesting - https://github.com/doongwong2/miniature-adventure/tree/main/1132SystemPentesting  
+System Pentesting:  
+Homework - https://github.com/doongwong2/miniature-adventure/tree/main/1132SystemPentesting  
 
-ASP.NET Programming - https://github.com/doongwong2/1132ASP.NETProgramming    
+ASP.NET Programming:
+Homework - https://github.com/doongwong2/1132ASP.NETProgramming    
 
