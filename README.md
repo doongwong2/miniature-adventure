@@ -30,7 +30,8 @@ Android Kotlin:
 hw1 - https://github.com/doongwong2/1122kotlin_hw1  
 (Not hw)AB_Game - https://github.com/doongwong2/1122kotlin_ABGame   
 hw2 - https://github.com/doongwong2/1122Kotlin_hw2  
-hw3 - https://github.com/doongwong2/1122Kotlinhw3
+hw3 - https://github.com/doongwong2/1122Kotlinhw3  
+Project - https://github.com/doongwong2/1122AndroidProject  
 
 Machine Vision:  
 Homework - https://github.com/doongwong2/1122MachineVision  
